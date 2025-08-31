@@ -1,4 +1,4 @@
-name: build-and-push-prose-app
+name: build-prose-app
 on: [push]
 jobs:
     build-and-push:
